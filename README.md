@@ -1,7 +1,3 @@
-<p align="center">
-    <img src=".github/public/django-sign-in-with-google.png" alt="Logo Django REST Framework" width="440"/>
-</p>
-
 # Django REST framework - JWT Token authentication with Social providers
 
 This is an example fullstack project of Django REST framework API using JWT Authentication with Google sign in.  
